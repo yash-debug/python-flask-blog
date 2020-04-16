@@ -14,8 +14,8 @@
        "no_of_post" : 2,
        "blog_name" : "yash raj",
        "login_image" : "login.jpg",
-       "admin_user" : "spd",
-       "admin_pass" : "white",
+       "admin_user" : "Enter username",
+       "admin_pass" : "Enter password",
        "upload_location" : "C:\\Users\\Yash Raj\\Desktop\\flask\\static"
     } 
     
