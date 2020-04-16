@@ -1,3 +1,7 @@
+#pip install flask
+#pip install sqlalchemy
+#pip install os
+#pip install werkzeug
 from flask import Flask,render_template,request,session,redirect
 from flask_sqlalchemy import SQLAlchemy
 import json
