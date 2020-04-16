@@ -1,0 +1,22 @@
+{
+
+    "params" :
+    {
+       "local_server":"True",
+       "local_uri": "mysql://root:@localhost/yrsc",
+       "prods_uri": "mysql://root:@localhost/yrsc",
+       "fb_url": "https://facebook.com/",
+       "tw_url": "https://twitter.com/",
+       "gh_url": "https://github.com/",
+       "gmail-user": "your gmail",
+       "gmail-password": "gmail password ",
+       "about_text" : "Hi ! My name is Yash Raj Singh Chouhan. I am B.tech student at GITS Udaipur. This is my owned website which I created using python flask framework.",
+       "no_of_post" : 2,
+       "blog_name" : "yash raj",
+       "login_image" : "login.jpg",
+       "admin_user" : "spd",
+       "admin_pass" : "white",
+       "upload_location" : "C:\\Users\\Yash Raj\\Desktop\\flask\\static"
+    } 
+    
+}
